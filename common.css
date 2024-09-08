@@ -1,0 +1,12 @@
+/*.navbar-background { background: linear-gradient(to bottom, #5adb43, #51b93f); }
+.navbar-background {
+  font-size: 100px !important;
+  .font-weight: bold;
+}*/
+#controls {
+          background-color: #ddd;
+          opacity: 0.5;
+        }
+#controls:hover{
+          opacity: 1;
+        }
